@@ -7,4 +7,4 @@ At the UiPath Academy, I learned that this feature is only available for the ent
 
 With some basics of deep learning from my studies, I built my own classifier using the datasets given (Out of copyright concerns, please get them at the academy). I tried various models, but am finally satisfied with the BERT model built in imbd_sentiment_analysis.ipynb.
 
-The actual model files are are bigger than the file size limits in GitHub. I planned to put the model in my website and allow user to get its prediction via a form, but due to this issue and my current tech stack, I will do it after I migrate to AWS.
+The actual model files are are bigger than the file size limits in GitHub. I planned to put the model in my website and allow user (or the UiPath automation robot) to get its prediction via a form, but due to this issue and my current tech stack, I will do it after I migrate to AWS.
